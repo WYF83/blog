@@ -1,7 +1,7 @@
 # Site settings
 title: Paweł Krysiak
 description: 'Software neurosurgeon in Rupeal, Ruby/Python evangelist, Lover of african dances.'
-url: 'http://pkrysiak.github.io/blog'
+url: 'http://pawel-krysiak.github.io/blog'
 baseurl: '/blog/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
